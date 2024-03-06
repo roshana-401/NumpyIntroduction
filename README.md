@@ -43,10 +43,13 @@ This comprehensive assignment is designed to deepen your understanding of Python
 - Use NumPy to generate random samples and explore probability distributions.
 
 ## Submission Guidelines
-- Submit your solutions as a Python script (.py file) or a Jupyter notebook (.ipynb).
+- First fork the repository
+- Create a directory in answers directory with your student number
+- Put .py files as follow: task1.py task2.py, ...
+- Commit your solutions as a Python script (.py file) or a Jupyter notebook (.ipynb).
 - Include comments in your code to explain your thought process and steps.
 - Ensure your code is readable and well-organized.
-- Submit your assignment via the designated platform or email as instructed.
+
 
 ## Resources
 - [NumPy Official Documentation](https://numpy.org/doc/)
